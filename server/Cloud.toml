@@ -1,0 +1,4 @@
+[container.image]
+repository="peformanceManagementServer"
+name="hello"
+tag="v0.1.0"
